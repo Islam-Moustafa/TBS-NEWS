@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#052962</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#052962</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="category_tech">#00a2e8</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="category_busines">#ff7f27</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="category_science">#b5e61d</color>
+
+</resources>
